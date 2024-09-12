@@ -10,3 +10,11 @@
     NumRank /= 10;
   }
   Console.WriteLine(Result);
+
+  //double HourArr = 6;
+  //double MinArr = 60;
+  //if (MinArr > 60) MinArr = 60;
+  //if (HourArr > 12) HourArr = 12;
+  //double Distance = 360 / 12;
+  //double AngleBetween = Math.Abs(HourArr - MinArr / 5) * Distance;
+  //Console.WriteLine(AngleBetween);
