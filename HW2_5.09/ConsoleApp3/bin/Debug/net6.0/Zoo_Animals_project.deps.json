@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zoo_Animals_project/1.0.0": {
+        "dependencies": {
+          "Zoo_Animals_project.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Zoo_Animals_project.dll": {}
+        }
+      },
+      "Zoo_Animals_project.Domain/1.0.0": {
+        "runtime": {
+          "Zoo_Animals_project.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zoo_Animals_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zoo_Animals_project.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
