@@ -1,0 +1,11 @@
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\bin\Debug\net6.0\Zoo_Animals_project.Domain.deps.json
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\bin\Debug\net6.0\Zoo_Animals_project.Domain.dll
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\bin\Debug\net6.0\Zoo_Animals_project.Domain.pdb
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.AssemblyInfoInputs.cache
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.AssemblyInfo.cs
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.dll
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\refint\Zoo_Animals_project.Domain.dll
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\Zoo_Animals_project.Domain.pdb
+C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3.Domain\obj\Debug\net6.0\ref\Zoo_Animals_project.Domain.dll
