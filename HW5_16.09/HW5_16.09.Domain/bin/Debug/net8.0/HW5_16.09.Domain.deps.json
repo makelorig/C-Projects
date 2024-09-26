@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW5_16.09.Domain/1.0.0": {
+        "runtime": {
+          "HW5_16.09.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW5_16.09.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
