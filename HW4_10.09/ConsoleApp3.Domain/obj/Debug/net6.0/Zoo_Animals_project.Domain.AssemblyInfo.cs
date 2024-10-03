@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zoo_Animals_project.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67381052c0aff5a95e76cbdf7a19803f2526122e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b6eea84ee77ae6297e2ee4de903dad3b6cede3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zoo_Animals_project.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zoo_Animals_project.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

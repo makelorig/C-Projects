@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Zoo_Animals_project
-build_property.ProjectDir = C:\Users\mcula\Desktop\games\zzzz\ConsoleApp3\
+build_property.ProjectDir = C:\Users\mcula\source\repos\C-Projects\HW2_5.09\ConsoleApp3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

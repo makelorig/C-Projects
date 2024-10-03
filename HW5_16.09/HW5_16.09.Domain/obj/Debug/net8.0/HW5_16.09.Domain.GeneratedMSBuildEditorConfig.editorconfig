@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HW5_16._09.Domain
-build_property.ProjectDir = C:\Users\mcula\Desktop\games\Last\HW5_16.09.Domain\
+build_property.ProjectDir = C:\Users\mcula\source\repos\C-Projects\HW5_16.09\HW5_16.09.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

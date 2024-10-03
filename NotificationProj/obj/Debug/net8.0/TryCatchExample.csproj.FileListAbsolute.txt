@@ -1,0 +1,14 @@
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\bin\Debug\net8.0\TryCatchExample.exe
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\bin\Debug\net8.0\TryCatchExample.deps.json
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\bin\Debug\net8.0\TryCatchExample.runtimeconfig.json
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\bin\Debug\net8.0\TryCatchExample.dll
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\bin\Debug\net8.0\TryCatchExample.pdb
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.AssemblyInfoInputs.cache
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.AssemblyInfo.cs
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.csproj.CoreCompileInputs.cache
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.dll
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\refint\TryCatchExample.dll
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.pdb
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\TryCatchExample.genruntimeconfig.cache
+C:\Users\mcula\Desktop\games\Last\TryCatchExample\obj\Debug\net8.0\ref\TryCatchExample.dll
